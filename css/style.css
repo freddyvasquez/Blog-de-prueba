@@ -1,7 +1,12 @@
 body {
+    background:#f4f4f4
+}
+
+.container {
     width:670px;
     margin:80px auto;
-    background:#f4f4f4
+    border:1px solid rgba(0,0,0,0.1);
+    padding:15px;
 }
 
 h1 {
@@ -17,4 +22,16 @@ p {
     font-weight:100;
     text-align:center;
     color:#000
+}
+
+a {
+    display:inline-block;
+    margin:0 auto;
+    text-align:center;
+    color:black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgba(0,0,0,0.7)
 }
