@@ -40,3 +40,13 @@ strong {
     font-style: italic;
     border-bottom:1px dotted black;
 }
+#cabecera {
+    background:rgba(0,0,0,0.1);
+    text-align:center;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-family:"Open Sans", sans-serif;
+    font-weight:400;
+    height:120px;
+    line-height: 120px;
+}
