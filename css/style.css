@@ -50,3 +50,19 @@ strong {
     height:120px;
     line-height: 120px;
 }
+
+#footer {
+    background:red;
+    padding:15px;
+    border-radius:12px;
+}
+
+#footer p {
+    color:white
+}
+
+#footer p a {
+    color:rgba(256,256,256,0.7);
+    text-transform: uppercase;
+    font-weight:bold;
+}
